@@ -1,5 +1,6 @@
 # E-commerce
 Street Wear E-commerce
+<a name="readme-top"></a>
 
 
 <!-- PROJECT LOGO -->
@@ -48,7 +49,13 @@ Street Wear E-commerce
 
 This section list frameworks/libraries used in the project. 
 
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![React][React.js]][React-url]
-* [![Next][Next.js]][Next-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
