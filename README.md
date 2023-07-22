@@ -68,7 +68,7 @@
 ### Built With
 
 * [![JavaScript][JavaScript]][JavaScript-url]
-* [![Next][Next.js]][Next-url]
+<!--* [![Next][Next.js]][Next-url] -->
 * [![React][React.js]][React-url]
 <!-- * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
